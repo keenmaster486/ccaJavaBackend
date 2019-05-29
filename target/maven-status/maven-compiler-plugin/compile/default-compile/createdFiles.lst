@@ -1,0 +1,15 @@
+ccaJavaBackend/Application.class
+ccaJavaBackend/Messages.class
+ccaJavaBackend/GroupService.class
+ccaJavaBackend/UsersRepository.class
+ccaJavaBackend/MessageService.class
+ccaJavaBackend/UserService.class
+ccaJavaBackend/Groups.class
+ccaJavaBackend/AuthController.class
+ccaJavaBackend/WebMvcConfig.class
+ccaJavaBackend/MessagesRepository.class
+ccaJavaBackend/GroupsController.class
+ccaJavaBackend/UsersController.class
+ccaJavaBackend/GroupsRepository.class
+ccaJavaBackend/Users.class
+ccaJavaBackend/SecurityConfiguration.class
